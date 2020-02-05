@@ -1,0 +1,6 @@
+name: advanced_dart
+description: advanced_dart
+version: 0.0.1
+
+dependencies:
+  pointycastle: ^1.0.2
