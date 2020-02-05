@@ -20,6 +20,18 @@
       "languageVersion": "2.0"
     },
     {
+      "name": "convert",
+      "rootUri": "file:///Users/ramillibragimov/.pub-cache/hosted/pub.dartlang.org/convert-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "1.17"
+    },
+    {
+      "name": "crypto",
+      "rootUri": "file:///Users/ramillibragimov/.pub-cache/hosted/pub.dartlang.org/crypto-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
       "name": "http",
       "rootUri": "file:///Users/ramillibragimov/.pub-cache/hosted/pub.dartlang.org/http-0.12.0+4",
       "packageUri": "lib/",
@@ -62,8 +74,20 @@
       "languageVersion": "2.6"
     },
     {
+      "name": "sqljocky5",
+      "rootUri": "file:///Users/ramillibragimov/.pub-cache/hosted/pub.dartlang.org/sqljocky5-2.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
       "name": "string_scanner",
       "rootUri": "file:///Users/ramillibragimov/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "synchronized",
+      "rootUri": "file:///Users/ramillibragimov/.pub-cache/hosted/pub.dartlang.org/synchronized-1.5.3+2",
       "packageUri": "lib/",
       "languageVersion": "2.0"
     },
@@ -72,6 +96,12 @@
       "rootUri": "file:///Users/ramillibragimov/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.1.0",
       "packageUri": "lib/",
       "languageVersion": "1.8"
+    },
+    {
+      "name": "typed_buffer",
+      "rootUri": "file:///Users/ramillibragimov/.pub-cache/hosted/pub.dartlang.org/typed_buffer-2.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
     },
     {
       "name": "typed_data",
@@ -86,7 +116,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2020-02-05T20:49:19.546312Z",
+  "generated": "2020-02-05T21:02:16.422015Z",
   "generator": "pub",
   "generatorVersion": "2.7.0"
 }
